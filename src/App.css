@@ -1,0 +1,27 @@
+.App{
+  background-image: url("./images/cakeWallpaper.jpg");
+  background-repeat: repeat;
+}
+.cakeBuild{
+max-width: 80%;
+}
+
+.userInput{
+  text-align: center;
+  border-radius: 10px;
+  background: rgba(214, 25, 81, 0.95);
+  font-weight: bolder;
+  box-shadow: 0px 5px 20px #888888;
+}
+
+
+.cakeBox{
+  background: rgba(214, 25, 81, 0.95);
+  border-radius: 10px;
+  box-shadow: 0px 5px 20px #888888;
+  font-weight: bolder;
+}
+.buttonSub{
+  width:90%;
+  font-weight: bold;
+}
